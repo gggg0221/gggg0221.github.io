@@ -1,0 +1,3 @@
+<input type = "text"><br>
+<input type = "password"><br>
+<input type = "file:"><br>
